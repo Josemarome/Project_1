@@ -48,10 +48,10 @@ For this part is important that you have these dependencias installed in order t
 Please make sure to insert the correct route for your input  .csv files
 The name of the csv files are:
 
-| Crime Rate Data       | Tortilla Data:         |
-| --------------------- | ---------------------- |
-| `crime_data.csv`      | `grouped_tortilla.csv` |
+| Tortilla Data      | 
+| ------------------ | 
+| `new_tortilla.csv` | 
 
 These csv files are located on the Resources folder
 
-For the written report analysis please open the Written Report.docx located on the Written Report Folder
+For the Pdf of the presentation please open the Presentation.pdf located on the Presentation folder
