@@ -39,11 +39,11 @@ These csv files are located on the Resources folder
 
 For this part is important that you have these dependencias installed in order to be able to run de Google Maps API call and display correct the Folium interactive maps:
 
-folium
-cartopy geoviews pyproj
-geos
-proj
-geoviews pyproj
+1.  folium
+2.  cartopy geoviews pyproj
+3.  geos
+4.  proj
+5.  geoviews pyproj
 
 Please make sure to insert the correct route for your input  .csv files
 The name of the csv files are:
