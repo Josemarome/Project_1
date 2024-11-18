@@ -12,7 +12,9 @@ We will do a series of analysis with the combined data in order to analyze the b
 
 ## Part 1 Tortilla Price vs Inlation Analysis
 
-Please make sure to insert the correct route for your input  .csv files
+For this part please open the 1_Tortilla_Price.ipynb file.
+
+Make sure to insert the correct route for your input  .csv files
 The name of the csv files are:
 
 | Tortilla Prices Data  | Inflation Data:    |
@@ -24,7 +26,9 @@ These csv files are located on the Resources folder
 
 ## Part 2 Tortilla Price vs Crime Rate Analysis
 
-Please make sure to insert the correct route for your input  .csv files
+For this part please open the 2_Crime_Data.ipynb
+
+Make sure to insert the correct route for your input  .csv files
 The name of the csv files are:
 
 | Crime Rate Data       | Tortilla Data:         |
@@ -37,7 +41,9 @@ These csv files are located on the Resources folder
 
 ## Part 3 Geoapify and Google Maps API's case of use 
 
-For this part is important that you have these dependencias installed in order to be able to run de Google Maps API call and display correct the Folium interactive maps:
+For this part please open the 3_Tortilla_Maps.ipynb file
+
+Also for this part is important that you have these dependencias installed in order to be able to run de Google Maps API call and display correct the Folium interactive maps:
 
 1.  folium
 2.  cartopy geoviews pyproj
@@ -45,7 +51,7 @@ For this part is important that you have these dependencias installed in order t
 4.  proj
 5.  geoviews pyproj
 
-Please make sure to insert the correct route for your input  .csv files
+Make sure to insert the correct route for your input  .csv files
 The name of the csv files are:
 
 | Tortilla Data      | 
@@ -53,5 +59,17 @@ The name of the csv files are:
 | `new_tortilla.csv` | 
 
 These csv files are located on the Resources folder
+
+Since the maps from HV Plots and Folium won't be displayed in Github, we uploaded the images that you should get when you open and run this file
+
+These maps are stored as:
+
+1.  Maps P1
+2.  Maps P2
+3.  Maps P3
+4.  Maps P4
+5.  Maps P5
+
+
 
 For the Pdf of the presentation please open the Presentation.pdf located on the Presentation folder
