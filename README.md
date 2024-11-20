@@ -71,5 +71,6 @@ These maps are stored as:
 5.  Maps P5
 
 
+## Presentation
 
-For the Pdf of the presentation please open the Presentation.pdf located on the Presentation folder
+For the Pdf of the presentation please open the file located on the Presentation folder
